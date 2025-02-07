@@ -1,4 +1,4 @@
-# Obsidian MD Print Driver
+# Obsidian MD Print Driver for Mac
 
 This script sets up a virtual printer that converts calendar event PDFs to Markdown files and saves them in an Obsidian vault. The script is designed to work with macOS and integrates with CUPS (Common UNIX Printing System).
 
